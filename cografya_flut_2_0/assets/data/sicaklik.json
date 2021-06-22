@@ -1,0 +1,255 @@
+[
+  {
+    "sol": 11.5,  "sag": 85,
+    "sicaklik": "13",
+    "tip": "İndirgenmiş Sıcaklık"
+  },
+  {
+    "sol": 25,  "sag": 115,
+    "sicaklik": "14",
+    "tip": "İndirgenmiş Sıcaklık"
+  },
+  {
+    "sol": 28,  "sag": 65,
+    "sicaklik": "14",
+    "tip": "İndirgenmiş Sıcaklık"
+  },
+  {
+    "sol": 24,  "sag": 57,
+    "sicaklik": "14",
+    "tip": "İndirgenmiş Sıcaklık"
+  },
+  {
+    "sol": 29,  "sag": 100,
+    "sicaklik": "14",
+    "tip": "İndirgenmiş Sıcaklık"
+  },
+  {
+    "sol": 120,  "sag": 300,
+    "sicaklik": "14",
+    "tip": "İndirgenmiş Sıcaklık"
+  },
+  {
+    "sol": 35,  "sag": 70,
+    "sicaklik": "14",
+    "tip": "İndirgenmiş Sıcaklık"
+  },
+  {
+    "sol": 12,  "sag": 57,
+    "sicaklik": "14",
+    "tip": "İndirgenmiş Sıcaklık"
+  },
+  {
+    "sol": 20,  "sag": 60,
+    "sicaklik": "15",
+    "tip": "İndirgenmiş Sıcaklık"
+  },
+  {
+    "sol": 20,  "sag": 45,
+    "sicaklik": "15",
+    "tip": "İndirgenmiş Sıcaklık"
+  },
+  {
+    "sol": 17,  "sag": 37,
+    "sicaklik": "15",
+    "tip": "İndirgenmiş Sıcaklık"
+  },
+  {
+    "sol": 36,  "sag": 41,
+    "sicaklik": "15",
+    "tip": "İndirgenmiş Sıcaklık"
+  },
+  {
+    "sol": 45,  "sag": 41,
+    "sicaklik": "15",
+    "tip": "İndirgenmiş Sıcaklık"
+  },
+  {
+    "sol": 13,  "sag": 50,
+    "sicaklik": "15",
+    "tip": "İndirgenmiş Sıcaklık"
+  },
+  {
+    "sol": 13,  "sag": 70,
+    "sicaklik": "15",
+    "tip": "İndirgenmiş Sıcaklık"
+  },
+  {
+    "sol": 14,  "sag": 48,
+    "sicaklik": "15",
+    "tip": "İndirgenmiş Sıcaklık"
+  },
+  {
+    "sol": 16,  "sag": 55,
+    "sicaklik": "15",
+    "tip": "İndirgenmiş Sıcaklık"
+  },
+  {
+    "sol": 57,  "sag": 41,
+    "sicaklik": "15",
+    "tip": "İndirgenmiş Sıcaklık"
+  },
+  {
+    "sol": 80,  "sag": 41,
+    "sicaklik": "15",
+    "tip": "İndirgenmiş Sıcaklık"
+  },
+  {
+    "sol": 200,  "sag": 50,
+    "sicaklik": "15",
+    "tip": "İndirgenmiş Sıcaklık"
+  },
+  {
+    "sol": 200,  "sag": 85,
+    "sicaklik": "15",
+    "tip": "İndirgenmiş Sıcaklık"
+  },
+  {
+    "sol": 18,  "sag": 50,
+    "sicaklik": "15",
+    "tip": "İndirgenmiş Sıcaklık"
+  },
+
+  {
+    "sol": 18,  "sag": 26,
+    "sicaklik": "16",
+    "tip": "İndirgenmiş Sıcaklık"
+  },
+  {
+    "sol": 20,  "sag": 29,
+    "sicaklik": "16",
+    "tip": "İndirgenmiş Sıcaklık"
+  },
+  {
+    "sol": 23,  "sag": 33,
+    "sicaklik": "16",
+    "tip": "İndirgenmiş Sıcaklık"
+  },
+  {
+    "sol": 200,  "sag": 37.5,
+    "sicaklik": "16",
+    "tip": "İndirgenmiş Sıcaklık"
+  },
+  {
+    "sol": 200,  "sag": 31.2,
+    "sicaklik": "17",
+    "tip": "İndirgenmiş Sıcaklık"
+  },
+  {
+    "sol": 25,  "sag": 25.2,
+    "sicaklik": "17",
+    "tip": "İndirgenmiş Sıcaklık"
+  },
+  {
+    "sol": 25,  "sag": 20.2,
+    "sicaklik": "17",
+    "tip": "İndirgenmiş Sıcaklık"
+  },
+  {
+    "sol": 10.85,  "sag": 37,
+    "sicaklik": "17",
+    "tip": "İndirgenmiş Sıcaklık"
+  },
+  {
+    "sol": 10.85,  "sag": 33,
+    "sicaklik": "17",
+    "tip": "İndirgenmiş Sıcaklık"
+  },
+  {
+    "sol": 10.85,  "sag": 27,
+    "sicaklik": "18",
+    "tip": "İndirgenmiş Sıcaklık"
+  },
+  {
+    "sol": 10.75,  "sag": 24.5,
+    "sicaklik": "18",
+    "tip": "İndirgenmiş Sıcaklık"
+  },
+  {
+    "sol": 200.75,  "sag": 24.5,
+    "sicaklik": "18",
+    "tip": "İndirgenmiş Sıcaklık"
+  },
+  {
+    "sol": 150.00,  "sag": 21.8,
+    "sicaklik": "18",
+    "tip": "İndirgenmiş Sıcaklık"
+  },
+  {
+    "sol": 135,  "sag": 18.1,
+    "sicaklik": "19",
+    "tip": "İndirgenmiş Sıcaklık"
+  },
+  {
+    "sol": 90,  "sag": 17.45,
+    "sicaklik": "19",
+    "tip": "İndirgenmiş Sıcaklık"
+  },
+  {
+    "sol": 65,  "sag": 15.95,
+    "sicaklik": "19",
+    "tip": "İndirgenmiş Sıcaklık"
+  },
+  {
+    "sol": 28,  "sag": 15.2,
+    "sicaklik": "19",
+    "tip": "İndirgenmiş Sıcaklık"
+  },
+  {
+    "sol": 26,  "sag": 14.7,
+    "sicaklik": "19",
+    "tip": "İndirgenmiş Sıcaklık"
+  },
+  {
+    "sol": 30,  "sag": 14.7,
+    "sicaklik": "19",
+    "tip": "İndirgenmiş Sıcaklık"
+  },
+  {
+    "sol": 13,  "sag": 19.7,
+    "sicaklik": "19",
+    "tip": "İndirgenmiş Sıcaklık"
+  },
+  {
+    "sol": 19.50,  "sag": 14.5,
+    "sicaklik": "19",
+    "tip": "İndirgenmiş Sıcaklık"
+  },
+  {
+    "sol": 10.50,  "sag": 19.5,
+    "sicaklik": "20",
+    "tip": "İndirgenmiş Sıcaklık"
+  },
+  {
+    "sol": 10.95,  "sag": 19.5,
+    "sicaklik": "20",
+    "tip": "İndirgenmiş Sıcaklık"
+  },
+  {
+    "sol": 17.95,  "sag": 15.78,
+    "sicaklik": "20",
+    "tip": "İndirgenmiş Sıcaklık"
+  },
+  {
+    "sol": 14.40,  "sag": 16.15,
+    "sicaklik": "21",
+    "tip": "İndirgenmiş Sıcaklık"
+  },
+  {
+    "sol": 13.70,  "sag": 16.75,
+    "sicaklik": "21",
+    "tip": "İndirgenmiş Sıcaklık"
+  },
+  {
+    "sol": 13.10,  "sag": 17.15,
+    "sicaklik": "21",
+    "tip": "İndirgenmiş Sıcaklık"
+  }
+
+
+
+
+
+]
+
+

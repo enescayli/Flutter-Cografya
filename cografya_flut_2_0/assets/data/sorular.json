@@ -1,0 +1,1494 @@
+[
+  {
+    "sol": 340,
+    "sag": 180,
+    "yuksek": 45,
+    "genis": 45,
+    "renk ": "null", "path": "assets/alistirma/Ovalar/Ergene.png",
+    "isim": "Ergene",
+    "tip": "Ova",
+    "tip2": "Delta Ovası"
+  },
+  {
+    "sol": 23.8,
+    "sag": 80,
+    "yuksek": 50,
+    "genis": 120,
+    "renk ": "null", "path": "assets/alistirma/Ovalar/Niksar.png",
+    "isim": "Niksar",
+    "tip": "Ova",
+    "tip2": "Ova"
+  },
+  {
+    "sol": 18.5,
+    "sag": 79,
+    "yuksek": 15,
+    "genis": 19,
+    "renk ": "null", "path": "assets/alistirma/Ovalar/Carsamba.png",
+    "isim": "Çarşamba",
+    "tip": "Ova",
+    "tip2": "Delta Ovası"
+  },
+  {
+    "sol": 20.2,
+    "sag": 115,
+    "yuksek": 20,
+    "genis": 20,
+    "renk ": "null", "path": "assets/alistirma/Ovalar/Bafra.png",
+    "isim": "Bafra",
+    "tip": "Ova",
+    "tip2": "Delta Ovası"
+  },
+  {
+    "sol": 10.7,
+    "sag": 40,
+    "yuksek": 12,
+    "genis": 25,
+    "renk ": "null", "path": "assets/alistirma/Ovalar/igdir.png",
+    "isim": "Iğdır",
+    "tip": "Ova",
+    "tip2": "Ova"
+  },
+  {
+    "sol": 48.8,
+    "sag": 45,
+    "yuksek": 90,
+    "genis": 90,
+    "renk ": "null", "path": "assets/alistirma/Ovalar/YukariSakarya.png",
+    "isim": "Yukarı Sakarya",
+    "tip": "Ova",
+    "tip2": "Ova"
+  },
+  {
+    "sol": 76.9,
+    "sag": 48,
+    "yuksek": 25,
+    "genis": 55,
+    "renk ": "null", "path": "assets/alistirma/Ovalar/Bursa.png",
+    "isim": "Bursa",
+    "tip": "Ova",
+    "tip2": "Ova"
+  },
+  {
+    "sol": 190,
+    "sag": 28.7,
+    "yuksek": 10,
+    "genis": 30,
+    "renk ": "null", "path": "assets/alistirma/Ovalar/Bakircay.png",
+    "isim": "Bakırçay",
+    "tip": "Ova",
+    "tip2": "Ova"
+  },
+  {
+    "sol": 28.5,
+    "sag": 50,
+    "yuksek": 25,
+    "genis": 40,
+    "renk ": "null", "path": "assets/alistirma/Ovalar/Ankara.png",
+    "isim": "Ankara",
+    "tip": "Ova",
+    "tip2": "Ova"
+  },
+  {
+    "sol": 110.5,
+    "sag": 47,
+    "yuksek": 25,
+    "genis": 25,
+    "renk ": "null", "path": "assets/alistirma/Ovalar/Balikesir.png",
+    "isim": "Balıkesir",
+    "tip": "Ova",
+    "tip2": "Ova"
+  },
+  {
+    "sol": 42,
+    "sag": 72,
+    "yuksek": 17,
+    "genis": 17,
+    "renk ": "null", "path": "assets/alistirma/Ovalar/Adapazari.png",
+    "isim": "Adapazarı",
+    "tip": "Ova",
+    "tip2": "Ova"
+  },
+  {
+    "sol": 14.6,
+    "sag": 36,
+    "yuksek": 18,
+    "genis": 18,
+    "renk ": "null", "path": "assets/alistirma/Ovalar/Erzincan.png",
+    "isim": "Erzincan",
+    "tip": "Ova",
+    "tip2": "Ova"
+  },
+  {
+    "sol": 14,
+    "sag": 37,
+    "yuksek": 18,
+    "genis": 22,
+    "renk ": "null", "path": "assets/alistirma/Ovalar/Tercan.png",
+    "isim": "Tercan",
+    "tip": "Ova",
+    "tip2": "Ova"
+  },
+  {
+    "sol": 13.3,
+    "sag": 38.3,
+    "yuksek": 18,
+    "genis": 20,
+    "renk ": "null", "path": "assets/alistirma/Ovalar/Erzurum.png",
+    "isim": "Erzurum",
+    "tip": "Ova",
+    "tip2": "Ova"
+  },
+  {
+    "sol": 12.9,
+    "sag": 43,
+    "yuksek": 18,
+    "genis": 21,
+    "renk ": "null", "path": "assets/alistirma/Ovalar/Pasinler.png",
+    "isim": "Pasinler",
+    "tip": "Ova",
+    "tip2": "Ova"
+  },
+  {
+    "sol": 14.35,
+    "sag": 25,
+    "yuksek": 14,
+    "genis": 27,
+    "renk ": "null", "path": "assets/alistirma/Ovalar/Elazig.png",
+    "isim": "Elazığ",
+    "tip": "Ova",
+    "tip2": "Ova"
+  },
+  {
+    "sol": 13.2,
+    "sag": 26.5,
+    "yuksek": 16,
+    "genis": 16,
+    "renk ": "null", "path": "assets/alistirma/Ovalar/Bingol.png",
+    "isim": "Bingöl",
+    "tip": "Ova",
+    "tip2": "Ova"
+  },
+  {
+    "sol": 12.5,
+    "sag": 27.5,
+    "yuksek": 16,
+    "genis": 16,
+    "renk ": "null", "path": "assets/alistirma/Ovalar/Mus.png",
+    "isim": "Muş",
+    "tip": "Ova",
+    "tip2": "Ova"
+  },
+  {
+    "sol": 12.02,
+    "sag": 30.7,
+    "yuksek": 14,
+    "genis": 14,
+    "renk ": "null", "path": "assets/alistirma/Ovalar/Malazgrit.png",
+    "isim": "Malazgirt",
+    "tip": "Ova",
+    "tip2": "Ova"
+  },
+  {
+    "sol": 11.8,
+    "sag": 35.7,
+    "yuksek": 14,
+    "genis": 18,
+    "renk ": "null", "path": "assets/alistirma/Ovalar/Eleskirt.png",
+    "isim": "Eleşkirt",
+    "tip": "Ova",
+    "tip2": "Ova"
+  },
+  {
+    "sol": 10.65,
+    "sag": 21.2,
+    "yuksek": 14,
+    "genis": 18,
+    "renk ": "null", "path": "assets/alistirma/Ovalar/Yuksekova.png",
+    "isim": "Yüksekova",
+    "tip": "Ova",
+    "tip2": "Ova"
+  },
+  {
+    "sol": 13.85,
+    "sag": 17.5,
+    "yuksek": 35,
+    "genis": 50,
+    "renk ": "null", "path": "assets/alistirma/Ovalar/Ceylanpinar.png",
+    "isim": "Ceylanpınar",
+    "tip": "Ova",
+    "tip2": "Ova"
+  },
+  {
+    "sol": 14.95,
+    "sag": 16.22,
+    "yuksek": 20.2,
+    "genis": 35.20,
+    "renk ": "null", "path": "assets/alistirma/Ovalar/Harran.png",
+    "isim": "Harran",
+    "tip": "Ova",
+    "tip2": "Ova"
+  },
+  {
+    "sol": 17.8,
+    "sag": 16.5,
+    "yuksek": 25,
+    "genis": 70,
+    "renk ": "null", "path": "assets/alistirma/Ovalar/Suruc.png",
+    "isim": "Suruç",
+    "tip": "Ova",
+    "tip2": "Ova"
+  },
+  {
+    "sol": 19.45,
+    "sag": 15.95,
+    "yuksek": 55,
+    "genis": 25,
+    "renk ": "null", "path": "assets/alistirma/Ovalar/Amik.png",
+    "isim": "Amik",
+    "tip": "Ova",
+    "tip2": "Ova"
+  },
+  {
+    "sol": 21,
+    "sag": 18.3,
+    "yuksek": 52,
+    "genis": 48,
+    "renk ": "null", "path": "assets/alistirma/Ovalar/Cukurova.png",
+    "isim": "Çukurova",
+    "tip": "Ova",
+    "tip2": "Delta Ovası"
+  },
+  {
+    "sol": 155,
+    "sag": 23.55,
+    "yuksek": 33,
+    "genis": 60,
+    "renk ": "null", "path": "assets/alistirma/Ovalar/K.menderes.png",
+    "isim": "K.menderes",
+    "tip": "Ova",
+    "tip2": "Delta Ovası"
+  },
+  {
+    "sol": 18.95,
+    "sag": 20.6,
+    "yuksek": 13,
+    "genis": 27,
+    "renk ": "null", "path": "assets/alistirma/Ovalar/Elbistan.png",
+    "isim": "Elbistan",
+    "tip": "Ova",
+    "tip2": "Ova"
+  },
+  {
+    "sol": 29.12,
+    "sag": 17.51,
+    "yuksek": 30,
+    "genis": 60,
+    "renk ": "null", "path": "assets/alistirma/Ovalar/Konya.png",
+    "isim": "Konya",
+    "tip": "Ova",
+    "tip2": "Ova"
+  },
+  {
+    "sol": 24.5,
+    "sag": 14.95,
+    "yuksek": 20,
+    "genis": 20,
+    "renk ": "null", "path": "assets/alistirma/Ovalar/Silifke.png",
+    "isim": "Silifke",
+    "tip": "Ova",
+    "tip2": "Delta Ovası"
+  },
+  {
+    "sol": 23.85,
+    "sag": 20.95,
+    "yuksek": 23,
+    "genis": 23,
+    "renk ": "null", "path": "assets/alistirma/Ovalar/Aksaray.png",
+    "isim": "Aksaray",
+    "tip": "Ova",
+    "tip2": "Ova"
+  },
+  {
+    "sol": 155,
+    "sag": 20.75,
+    "yuksek": 33,
+    "genis": 120,
+    "renk ": "null", "path": "assets/alistirma/Ovalar/B.menderes.png",
+    "isim": "B.menderes",
+    "tip": "Ova",
+    "tip2": "Delta Ovası"
+  },
+  {
+    "sol": 155,
+    "sag": 23.55,
+    "yuksek": 33,
+    "genis": 60,
+    "renk ": "null", "path": "assets/alistirma/Ovalar/K.menderes.png",
+    "isim": "K.menderes",
+    "tip": "Ova",
+    "tip2": "Delta Ovası"
+  },
+  {
+    "sol": 210,
+    "sag": 25.85,
+    "yuksek": 35,
+    "genis": 75,
+    "renk ": "null", "path": "assets/alistirma/Ovalar/Gediz.png",
+    "isim": "Gediz",
+    "tip": "Ova",
+    "tip2": "Delta Ovası"
+  },
+  {
+    "sol": 53,
+    "sag": 15.5,
+    "yuksek": 20,
+    "genis": 22,
+    "renk ": "null", "path": "assets/alistirma/Ovalar/Esen.png",
+    "isim": "Eşen",
+    "tip": "Ova",
+    "tip2": "Ova"
+  },
+  {
+    "sol": 16.85,
+    "sag": 23.775,
+    "yuksek": 35,
+    "genis": 35,
+    "renk ": "null", "path": "assets/alistirma/Ovalar/Malatya.png",
+    "isim": "Malatya",
+    "tip": "Ova",
+    "tip2": "Ova"
+  },
+  {
+    "sol": 80,
+    "sag": 112,
+    "yuksek": 35,
+    "genis": 65,
+    "renk ": "null", "path": "assets/alistirma/Platolar/Catalca.png",
+    "isim": "Çatalca-Kocaeli",
+    "tip": "Plato",
+    "tip2": "Aşınım Platosu"
+  },
+  {
+    "sol": 80.85,
+    "sag": 28,
+    "yuksek": 35,
+    "genis": 55,
+    "renk ": "null", "path": "assets/alistirma/Platolar/Gordes.png",
+    "isim": "Gördes-Uşak",
+    "tip": "Plato",
+    "tip2": "Tabaka Düzlüğü Platosu"
+  },
+  {
+    "sol": 50.85,
+    "sag": 33,
+    "yuksek": 45,
+    "genis": 45,
+    "renk ": "null", "path": "assets/alistirma/Platolar/Yazilkaya.png",
+    "isim": "Yazılıkaya",
+    "tip": "Plato",
+    "tip2": "Tabaka Düzlüğü Platosu"
+  },
+  {
+    "sol": 32,
+    "sag": 27,
+    "yuksek": 45,
+    "genis": 40,
+    "renk ": "null", "path": "assets/alistirma/Platolar/Cihanbeyli.png",
+    "isim": "Cihanbeyli",
+    "tip": "Plato",
+    "tip2": "Tabaka Düzlüğü Platosu"
+  },
+  {
+    "sol": 29,
+    "sag": 34,
+    "yuksek": 36,
+    "genis": 31,
+    "renk ": "null", "path": "assets/alistirma/Platolar/Haymana.png",
+    "isim": "Haymana",
+    "tip": "Plato",
+    "tip2": "Tabaka Düzlüğü Platosu"
+  },
+  {
+    "sol": 22,
+    "sag": 38,
+    "yuksek": 27,
+    "genis": 53,
+    "renk ": "null", "path": "assets/alistirma/Platolar/Bozok.png",
+    "isim": "Bozok",
+    "tip": "Plato",
+    "tip2": "Tabaka Düzlüğü Platosu"
+  },
+  {
+    "sol": 20,
+    "sag": 30,
+    "yuksek": 50,
+    "genis": 70,
+    "renk ": "null", "path": "assets/alistirma/Platolar/Uzunyayla.png",
+    "isim": "Uzunyayla",
+    "tip": "Plato",
+    "tip2": "Tabaka Düzlüğü Platosu"
+  },
+  {
+    "sol": 27.30,
+    "sag": 21.20,
+    "yuksek": 25,
+    "genis": 45,
+    "renk ": "null", "path": "assets/alistirma/Platolar/Obruk.png",
+    "isim": "Obruk",
+    "tip": "Plato",
+    "tip2": "Tabaka Düzlüğü Platosu"
+  },
+  {
+    "sol": 17,
+    "sag": 17,
+    "yuksek": 15,
+    "genis": 35,
+    "renk ": "null", "path": "assets/alistirma/Platolar/Gaziantep.png",
+    "isim": "Gaziantep",
+    "tip": "Plato",
+    "tip2": "Tabaka Düzlüğü Platosu"
+  },
+  {
+    "sol": 14.95,
+    "sag": 18.23,
+    "yuksek": 25,
+    "genis": 40,
+    "renk ": "null", "path": "assets/alistirma/Platolar/Sanliurfa.png",
+    "isim": "Şanlıurfa",
+    "tip": "Plato",
+    "tip2": "Tabaka Düzlüğü Platosu"
+  },
+  {
+    "sol": 13,
+    "sag": 19,
+    "yuksek": 20,
+    "genis": 55,
+    "renk ": "null", "path": "assets/alistirma/Platolar/Mardin.png",
+    "isim": "Mardin",
+    "tip": "Plato",
+    "tip2": "Tabaka Düzlüğü Platosu"
+  },
+  {
+    "sol": 65,
+    "sag": 17.5,
+    "yuksek": 40,
+    "genis": 50,
+    "renk ": "null", "path": "assets/alistirma/Platolar/Taseli.png",
+    "isim": "Taşeli",
+    "tip": "Plato",
+    "tip2": "Karstik Plato"
+  },
+  {
+    "sol": 30,
+    "sag": 16.9,
+    "yuksek": 45,
+    "genis": 90,
+    "renk ": "null", "path": "assets/alistirma/Platolar/Teke.png",
+    "isim": "Teke",
+    "tip": "Plato",
+    "tip2": "Karstik Plato"
+  },
+  {
+    "sol": 12,
+    "sag": 60,
+    "yuksek": 35,
+    "genis": 55,
+    "renk ": "null", "path": "assets/alistirma/Platolar/Erzurum.png",
+    "isim": "Erzurum",
+    "tip": "Plato",
+    "tip2": "Lav(Volkanik) Plato"
+  },
+  {
+    "sol": 11.85,
+    "sag": 88.9,
+    "yuksek": 20,
+    "genis": 40,
+    "renk ": "null", "path": "assets/alistirma/Platolar/Ardahan.png",
+    "isim": "Ardahan",
+    "tip": "Plato",
+    "tip2": "Lav(Volkanik) Plato"
+  },
+  {
+    "sol": 25.9,
+    "sag": 26.85,
+    "yuksek": 30,
+    "genis": 20,
+    "renk ": "null", "path": "assets/alistirma/Goller/Tuz.png",
+    "isim": "Tuz",
+    "tip": "Göl",
+    "tip2": "Tektonik Göl"
+  },
+  {
+    "sol": 46,
+    "sag": 19,
+    "yuksek": 14,
+    "genis": 19,
+    "renk ": "null", "path": "assets/alistirma/Goller/Burdur.png",
+    "isim": "Burdur",
+    "tip": "Göl",
+    "tip2": "Tektonik Göl"
+  },
+  {
+    "sol": 69,
+    "sag": 105,
+    "yuksek": 15,
+    "genis": 15,
+    "renk ": "null", "path": "assets/alistirma/Goller/kopya.png",
+    "isim": "Durusu",
+    "tip": "Göl",
+    "tip2": "Kıyı Set Gölü"
+  },
+  {
+    "sol": 35.5,
+    "sag": 20.5,
+    "yuksek": 25,
+    "genis": 25,
+    "renk ": "null", "path": "assets/alistirma/Goller/Betsehir.png",
+    "isim": "Beyşehir",
+    "tip": "Göl",
+    "tip2": "Tektonik Karstik Göl"
+  },
+  {
+    "sol": 73,
+    "sag": 85,
+    "yuksek": 13,
+    "genis": 13,
+    "renk ": "null", "path": "assets/alistirma/Goller/kopya.png",
+    "isim": "Büyük Çekmece",
+    "tip": "Göl",
+    "tip2": "Kıyı Set Gölü"
+  },
+  {
+    "sol": 64,
+    "sag": 78,
+    "yuksek": 12,
+    "genis": 12,
+    "renk ": "null", "path": "assets/alistirma/Goller/kopya.png",
+    "isim": "Küçük Çekmece",
+    "tip": "Göl",
+    "tip2": "Kıyı Set Gölü"
+  },
+  {
+    "sol": 100,
+    "sag": 45,
+    "yuksek": 12,
+    "genis": 12,
+    "renk ": "null", "path": "assets/alistirma/Goller/Kus.png",
+    "isim": "Kuş",
+    "tip": "Göl",
+    "tip2": "Tektonik Göl"
+  },
+  {
+    "sol": 75,
+    "sag": 44,
+    "yuksek": 10,
+    "genis": 13,
+    "renk ": "null", "path": "assets/alistirma/Goller/Ulubat.png",
+    "isim": "Ulubat",
+    "tip": "Göl",
+    "tip2": "Tektonik Göl"
+  },
+  {
+    "sol": 54.75,
+    "sag": 49,
+    "yuksek": 8,
+    "genis": 15,
+    "renk ": "null", "path": "assets/alistirma/Goller/Iznik.png",
+    "isim": "İznik",
+    "tip": "Göl",
+    "tip2": "Tektonik Göl"
+  },
+  {
+    "sol": 45,
+    "sag": 63,
+    "yuksek": 7,
+    "genis": 15,
+    "renk ": "null", "path": "assets/alistirma/Goller/kopya.png",
+    "isim": "Sapanca",
+    "tip": "Göl",
+    "tip2": "Tektonik Göl"
+  },
+  {
+    "sol": 37,
+    "sag": 58,
+    "yuksek": 10,
+    "genis": 10,
+    "renk ": "null", "path": "assets/alistirma/Goller/kopya.png",
+    "isim": "Sülüklü Göl",
+    "tip": "Göl",
+    "tip2": "Heyelan Set Gölü"
+  },
+  {
+    "sol": 35.3,
+    "sag": 52,
+    "yuksek": 10,
+    "genis": 10,
+    "renk ": "null", "path": "assets/alistirma/Goller/kopya.png",
+    "isim": "Abant",
+    "tip": "Göl",
+    "tip2": "Heyelan Set Gölü"
+  },
+  {
+    "sol": 33,
+    "sag": 66,
+    "yuksek": 10,
+    "genis": 10,
+    "renk ": "null", "path": "assets/alistirma/Goller/kopya.png",
+    "isim": "Yedigöller",
+    "tip": "Göl",
+    "tip2": "Heyelan Set Gölü"
+  },
+  {
+    "sol": 19.53,
+    "sag": 110,
+    "yuksek": 12,
+    "genis": 7,
+    "renk ": "null", "path": "assets/alistirma/Goller/kopya.png",
+    "isim": "Balık",
+    "tip": "Göl",
+    "tip2": "Kıyı Set Gölü"
+  },
+  {
+    "sol": 19.15,
+    "sag": 55,
+    "yuksek": 10,
+    "genis": 10,
+    "renk ": "null", "path": "assets/alistirma/Goller/kopya.png",
+    "isim": "Borobay",
+    "tip": "Göl",
+    "tip2": "Heyelan Set Gölü"
+  },
+  {
+    "sol": 17.3,
+    "sag": 48,
+    "yuksek": 10,
+    "genis": 10,
+    "renk ": "null", "path": "assets/alistirma/Goller/kopya.png",
+    "isim": "Zinav",
+    "tip": "Göl",
+    "tip2": "Heyelan Set Gölü"
+  },
+  {
+    "sol": 11.8,
+    "sag": 28.2,
+    "yuksek": 40,
+    "genis": 55,
+    "renk ": "null", "path": "assets/alistirma/Goller/Van.png",
+    "isim": "Van",
+    "tip": "Göl",
+    "tip2": "Volkanik Tektonik Göl"
+  },
+  {
+    "sol": 14.6,
+    "sag": 61,
+    "yuksek": 10,
+    "genis": 10,
+    "renk ": "null", "path": "assets/alistirma/Goller/kopya.png",
+    "isim": "Sera",
+    "tip": "Göl",
+    "tip2": "Heyelan Set Gölü"
+  },
+  {
+    "sol": 13.7,
+    "sag": 56,
+    "yuksek": 10,
+    "genis": 10,
+    "renk ": "null", "path": "assets/alistirma/Goller/kopya.png",
+    "isim": "Uzun Göl",
+    "tip": "Göl",
+    "tip2": "Alüvyal Set Gölü"
+  },
+  {
+    "sol": 12.4,
+    "sag": 62,
+    "yuksek": 10,
+    "genis": 7,
+    "renk ": "null", "path": "assets/alistirma/Goller/kopya.png",
+    "isim": "Tortum",
+    "tip": "Göl",
+    "tip2": "Heyelan Set Gölü"
+  },
+  {
+    "sol": 11.65,
+    "sag": 88,
+    "yuksek": 10,
+    "genis": 10,
+    "renk ": "null", "path": "assets/alistirma/Goller/Cildir.png",
+    "isim": "Çıldır",
+    "tip": "Göl",
+    "tip2": "Volkanik Set Gölü"
+  },
+  {
+    "sol": 11.5,
+    "sag": 110,
+    "yuksek": 10,
+    "genis": 10,
+    "renk ": "null", "path": "assets/alistirma/Goller/Aktas.png",
+    "isim": "Aktaş",
+    "tip": "Göl",
+    "tip2": "Tektonik Göl"
+  },
+  {
+    "sol": 10.95,
+    "sag": 26,
+    "yuksek": 11,
+    "genis": 8,
+    "renk ": "null", "path": "assets/alistirma/Goller/kopya.png",
+    "isim": "Ercek",
+    "tip": "Göl",
+    "tip2": "Volkanik Set Gölü"
+  },
+  {
+    "sol": 11.96,
+    "sag": 24,
+    "yuksek": 7,
+    "genis": 6,
+    "renk ": "null", "path": "assets/alistirma/Goller/kopya.png",
+    "isim": "Nemrut",
+    "tip": "Göl",
+    "tip2": "Volkanik Göl"
+  },
+  {
+    "sol": 11.9,
+    "sag": 25.5,
+    "yuksek": 8,
+    "genis": 8,
+    "renk ": "null", "path": "assets/alistirma/Goller/kopya.png",
+    "isim": "Nazik",
+    "tip": "Göl",
+    "tip2": "Volkanik Set Gölü"
+  },
+  {
+    "sol": 11.88,
+    "sag": 28.2,
+    "yuksek": 9,
+    "genis": 9,
+    "renk ": "null", "path": "assets/alistirma/Goller/kopya.png",
+    "isim": "Haçlı",
+    "tip": "Göl",
+    "tip2": "Volkanik Set Gölü"
+  },
+  {
+    "sol": 14.4,
+    "sag": 23.2,
+    "yuksek": 10,
+    "genis": 10,
+    "renk ": "null", "path": "assets/alistirma/Goller/Hazar.png",
+    "isim": "Hazar",
+    "tip": "Göl",
+    "tip2": "Tektonik Göl"
+  },
+  {
+    "sol": 19.5,
+    "sag": 25.5,
+    "yuksek": 12,
+    "genis": 9,
+    "renk ": "null", "path": "assets/alistirma/Goller/kopya.png",
+    "isim": "Tuzla",
+    "tip": "Göl",
+    "tip2": "Tektonik Göl"
+  },
+  {
+    "sol": 22.7,
+    "sag": 28.4,
+    "yuksek": 8,
+    "genis": 11,
+    "renk ": "null", "path": "assets/alistirma/Goller/kopya.png",
+    "isim": "Seyfe",
+    "tip": "Göl",
+    "tip2": "Tektonik Göl"
+  },
+  {
+    "sol": 29,
+    "sag": 42,
+    "yuksek": 10,
+    "genis": 10,
+    "renk ": "null", "path": "assets/alistirma/Goller/kopya.png",
+    "isim": "Eymir",
+    "tip": "Göl",
+    "tip2": "Alüvyal Set Gölü"
+  },
+  {
+    "sol": 29,
+    "sag": 33,
+    "yuksek": 10,
+    "genis": 10,
+    "renk ": "null", "path": "assets/alistirma/Goller/kopya.png",
+    "isim": "Mogan",
+    "tip": "Göl",
+    "tip2": "Alüvyal Set Gölü"
+  },
+  {
+    "sol": 27,
+    "sag": 23.5,
+    "yuksek": 12,
+    "genis": 7,
+    "renk ": "null", "path": "assets/alistirma/Goller/kopya.png",
+    "isim": "Tersakan",
+    "tip": "Göl",
+    "tip2": "Tektonik Göl"
+  },
+  {
+    "sol": 20.5,
+    "sag": 21.15,
+    "yuksek": 10,
+    "genis": 10,
+    "renk ": "null", "path": "assets/alistirma/Goller/kopya.png",
+    "isim": "Yay",
+    "tip": "Göl",
+    "tip2": "Tektonik Göl"
+  },
+  {
+    "sol": 20.5,
+    "sag": 15.5,
+    "yuksek": 9,
+    "genis": 18,
+    "renk ": "null", "path": "assets/alistirma/Goller/kopya.png",
+    "isim": "Akyatan",
+    "tip": "Göl",
+    "tip2": "Kıyı Set Gölü"
+  },
+  {
+    "sol": 24,
+    "sag": 18.5,
+    "yuksek": 10,
+    "genis": 10,
+    "renk ": "null", "path": "assets/alistirma/Goller/kopya.png",
+    "isim": "Meke",
+    "tip": "Göl",
+    "tip2": "Volkanik Göl"
+  },
+  {
+    "sol": 33.3,
+    "sag": 18.3,
+    "yuksek": 10,
+    "genis": 10,
+    "renk ": "null", "path": "assets/alistirma/Goller/kopya.png",
+    "isim": "Suğla",
+    "tip": "Göl",
+    "tip2": "Tektonik Karstik Göl"
+  },
+  {
+    "sol": 32,
+    "sag": 22.5,
+    "yuksek": 10,
+    "genis": 10,
+    "renk ": "null", "path": "assets/alistirma/Goller/kopya.png",
+    "isim": "Ilgın",
+    "tip": "Göl",
+    "tip2": "Tektonik Karstik Göl"
+  },
+  {
+    "sol": 34,
+    "sag": 24.2,
+    "yuksek": 13,
+    "genis": 13,
+    "renk ": "null", "path": "assets/alistirma/Goller/Aksehir.png",
+    "isim": "Akşehir",
+    "tip": "Göl",
+    "tip2": "Tektonik Göl"
+  },
+  {
+    "sol": 36.4,
+    "sag": 24.7,
+    "yuksek": 6,
+    "genis": 10,
+    "renk ": "null", "path": "assets/alistirma/Goller/kopya.png",
+    "isim": "Eber",
+    "tip": "Göl",
+    "tip2": "Tektonik Göl"
+  },
+  {
+    "sol": 41,
+    "sag": 21,
+    "yuksek": 25,
+    "genis": 15,
+    "renk ": "null", "path": "assets/alistirma/Goller/Egirdir.png",
+    "isim": "Eğirdir",
+    "tip": "Göl",
+    "tip2": "Tektonik Karstik Göl"
+  },
+  {
+    "sol": 39,
+    "sag": 18.5,
+    "yuksek": 10,
+    "genis": 5,
+    "renk ": "null", "path": "assets/alistirma/Goller/kopya.png",
+    "isim": "Kovada",
+    "tip": "Göl",
+    "tip2": "Karstik Göl"
+  },
+  {
+    "sol": 48,
+    "sag": 18.225,
+    "yuksek": 11,
+    "genis": 7,
+    "renk ": "null", "path": "assets/alistirma/Goller/kopya.png",
+    "isim": "Yarışlı",
+    "tip": "Göl",
+    "tip2": "Tektonik Göl"
+  },
+  {
+    "sol": 54,
+    "sag": 18.225,
+    "yuksek": 10,
+    "genis": 10,
+    "renk ": "null", "path": "assets/alistirma/Goller/kopya.png",
+    "isim": "Salda",
+    "tip": "Göl",
+    "tip2": "Tektonik Göl"
+  },
+  {
+    "sol": 76,
+    "sag": 16.65,
+    "yuksek": 10,
+    "genis": 10,
+    "renk ": "null", "path": "assets/alistirma/Goller/kopya.png",
+    "isim": "Köyceğiz",
+    "tip": "Göl",
+    "tip2": "Alüvyal Set Gölü"
+  },
+  {
+    "sol": 150,
+    "sag": 19.0,
+    "yuksek": 8,
+    "genis": 12,
+    "renk ": "null", "path": "assets/alistirma/Goller/kopya.png",
+    "isim": "Bafa (Çamiçi)",
+    "tip": "Göl",
+    "tip2": "Alüvyal Set Gölü"
+  },
+  {
+    "sol": 95,
+    "sag": 24.7,
+    "yuksek": 10,
+    "genis": 13,
+    "renk ": "null", "path": "assets/alistirma/Goller/kopya.png",
+    "isim": "Marmara",
+    "tip": "Göl",
+    "tip2": "Alüvyal Set Gölü"
+  },
+  {
+    "sol": 110,
+    "sag": 350,
+    "yuksek": 45,
+    "genis": 50,
+    "renk ": "null", "path": "assets/alistirma/Daglar/Yildiz.png",
+    "isim": "Yıldız Dağları",
+    "tip": "Dağ",
+    "tip2": "Kıvrımlı Dağ"
+  },
+  {
+    "sol": 200,
+    "sag": 37,
+    "yuksek": 10,
+    "genis": 45,
+    "renk ": "null", "path": "assets/alistirma/Daglar/Kaz.png",
+    "isim": "Kaz Dağları",
+    "tip": "Dağ",
+    "tip2": "Kıvrımlı Dağ"
+  },
+  {
+    "sol": 70,
+    "sag": 37.80,
+    "yuksek": 10,
+    "genis": 20,
+    "renk ": "null", "path": "assets/alistirma/Daglar/Uludag.png",
+    "isim": "Uludağ",
+    "tip": "Dağ",
+    "tip2": "Kıvrımlı Dağ"
+  },
+  {
+    "sol": 55,
+    "sag": 52,
+    "yuksek": 5,
+    "genis": 25,
+    "renk ": "null", "path": "assets/alistirma/Daglar/Samanli.png",
+    "isim": "Samanlı Dağları",
+    "tip": "Dağ",
+    "tip2": "Kıvrımlı Dağ"
+  },
+  {
+    "sol": 42,
+    "sag": 58,
+    "yuksek": 30,
+    "genis": 40,
+    "renk ": "null", "path": "assets/alistirma/Daglar/Bolu.png",
+    "isim": "Bolu Dağları",
+    "tip": "Dağ",
+    "tip2": "Kıvrımlı Dağ"
+  },
+  {
+    "sol": 30,
+    "sag": 73,
+    "yuksek": 12,
+    "genis": 58,
+    "renk ": "null", "path": "assets/alistirma/Daglar/Ilgaz.png",
+    "isim": "Ilgaz Dağları",
+    "tip": "Dağ",
+    "tip2": "Kıvrımlı Dağ"
+  },
+  {
+    "sol": 28,
+    "sag": 150,
+    "yuksek": 12,
+    "genis": 80,
+    "renk ": "null", "path": "assets/alistirma/Daglar/Kure.png",
+    "isim": "Küre Dağları",
+    "tip": "Dağ",
+    "tip2": "Kıvrımlı Dağ"
+  },
+  {
+    "sol": 38,
+    "sag": 56,
+    "yuksek": 40,
+    "genis": 90,
+    "renk ": "null", "path": "assets/alistirma/Daglar/Koroglu.png",
+    "isim": "Köroğlu Dağları",
+    "tip": "Dağ",
+    "tip2": "Kıvrımlı Dağ"
+  },
+  {
+    "sol": 39.25,
+    "sag": 34,
+    "yuksek": 7,
+    "genis": 55,
+    "renk ": "null", "path": "assets/alistirma/Daglar/Sundiken.png",
+    "isim": "Sündiken Dağları",
+    "tip": "Dağ",
+    "tip2": "Kıvrımlı Dağ"
+  },
+  {
+    "sol": 26.4,
+    "sag": 40.5,
+    "yuksek": 20,
+    "genis": 27,
+    "renk ": "null", "path": "assets/alistirma/Daglar/Elmadag.png",
+    "isim": "Elma Dağ",
+    "tip": "Dağ",
+    "tip2": "Kıvrımlı Dağ"
+  },
+  {
+    "sol": 20.4,
+    "sag": 68.5,
+    "yuksek": 29,
+    "genis": 75,
+    "renk ": "null", "path": "assets/alistirma/Daglar/Canik.png",
+    "isim": "Canik Dağları",
+    "tip": "Dağ",
+    "tip2": "Kıvrımlı Dağ"
+  },
+  {
+    "sol": 15.6,
+    "sag": 53.5,
+    "yuksek": 15,
+    "genis": 60,
+    "renk ": "null", "path": "assets/alistirma/Daglar/Giresun.png",
+    "isim": "Gİresun Dağları",
+    "tip": "Dağ",
+    "tip2": "Kıvrımlı Dağ"
+  },
+  {
+    "sol": 13.5,
+    "sag": 62.5,
+    "yuksek": 15,
+    "genis": 34,
+    "renk ": "null", "path": "assets/alistirma/Daglar/Kackar.png",
+    "isim": "Kaçkar Dağları",
+    "tip": "Dağ",
+    "tip2": "Kıvrımlı Dağ"
+  },
+  {
+    "sol": 12.5,
+    "sag": 95.5,
+    "yuksek": 20,
+    "genis": 27,
+    "renk ": "null", "path": "assets/alistirma/Daglar/Karcal.png",
+    "isim": "Karçal Dağları",
+    "tip": "Dağ",
+    "tip2": "Kıvrımlı Dağ"
+  },
+  {
+    "sol": 13.6,
+    "sag": 45.5,
+    "yuksek": 30,
+    "genis": 55,
+    "renk ": "null", "path": "assets/alistirma/Daglar/Muscit.png",
+    "isim": "Mescit Dağları",
+    "tip": "Dağ",
+    "tip2": "Kıvrımlı Dağ"
+  },
+  {
+    "sol": 11.75,
+    "sag": 115.5,
+    "yuksek": 25,
+    "genis": 25,
+    "renk ": "null", "path": "assets/alistirma/Daglar/Yalnizcam.png",
+    "isim": "Yalnızçam Dağları",
+    "tip": "Dağ",
+    "tip2": "Kıvrımlı Dağ"
+  },
+  {
+    "sol": 12.2,
+    "sag": 68.5,
+    "yuksek": 55,
+    "genis": 60,
+    "renk ": "null", "path": "assets/alistirma/Daglar/Allahuekber.png",
+    "isim": "Allahuekber Dağları",
+    "tip": "Dağ",
+    "tip2": "Kıvrımlı Dağ"
+  },
+  {
+    "sol": 12.2,
+    "sag": 35.5,
+    "yuksek": 18,
+    "genis": 65,
+    "renk ": "null", "path": "assets/alistirma/Daglar/ArasGuneyi.png",
+    "isim": "Aras Güneyi Dağları",
+    "tip": "Dağ",
+    "tip2": "Kıvrımlı Dağ"
+  },
+  {
+    "sol": 57.0,
+    "sag": 29.5,
+    "yuksek": 35,
+    "genis": 14,
+    "renk ": "null", "path": "assets/alistirma/Daglar/Simav.png",
+    "isim": "Simav Dağı",
+    "tip": "Dağ",
+    "tip2": "Kıvrımlı Dağ"
+  },
+  {
+    "sol": 50.0,
+    "sag": 27.5,
+    "yuksek": 25,
+    "genis": 19,
+    "renk ": "null", "path": "assets/alistirma/Daglar/Murat.png",
+    "isim": "Murat Dağı",
+    "tip": "Dağ",
+    "tip2": "Kıvrımlı Dağ"
+  },
+  {
+    "sol": 39.0,
+    "sag": 23.35,
+    "yuksek": 15,
+    "genis": 38,
+    "renk ": "null", "path": "assets/alistirma/Daglar/Emir.png",
+    "isim": "Emir Dağı",
+    "tip": "Dağ",
+    "tip2": "Kıvrımlı Dağ"
+  },
+  {
+    "sol": 39.5,
+    "sag": 21.33,
+    "yuksek": 47,
+    "genis": 50,
+    "renk ": "null", "path": "assets/alistirma/Daglar/Sultan.png",
+    "isim": "Sultan Dağı",
+    "tip": "Dağ",
+    "tip2": "Kıvrımlı Dağ"
+  },
+  {
+    "sol": 39.5,
+    "sag": 18.55,
+    "yuksek": 30,
+    "genis": 33,
+    "renk ": "null", "path": "assets/alistirma/Daglar/Dedegol.png",
+    "isim": "Dedegöl Dağı",
+    "tip": "Dağ",
+    "tip2": "Kıvrımlı Dağ"
+  },
+  {
+    "sol": 30.5,
+    "sag": 15.55,
+    "yuksek": 30,
+    "genis": 39,
+    "renk ": "null", "path": "assets/alistirma/Daglar/Geyik.png",
+    "isim": "Geyik Dağı",
+    "tip": "Dağ",
+    "tip2": "Kıvrımlı Dağ"
+  },
+  {
+    "sol": 25.2,
+    "sag": 16.5,
+    "yuksek": 35,
+    "genis": 40,
+    "renk ": "null", "path": "assets/alistirma/Daglar/Bolkar.png",
+    "isim": "Bolkar Dağları",
+    "tip": "Dağ",
+    "tip2": "Kıvrımlı Dağ"
+  },
+  {
+    "sol": 22,
+    "sag": 18.86,
+    "yuksek": 30,
+    "genis": 30,
+    "renk ": "null", "path": "assets/alistirma/Daglar/Aladaglar.png",
+    "isim": "Aladağlar",
+    "tip": "Dağ",
+    "tip2": "Kıvrımlı Dağ"
+  },
+  {
+    "sol": 20,
+    "sag": 22.86,
+    "yuksek": 35,
+    "genis": 50,
+    "renk ": "null", "path": "assets/alistirma/Daglar/Tahtali.png",
+    "isim": "Tahtalı Dağları",
+    "tip": "Dağ",
+    "tip2": "Kıvrımlı Dağ"
+  },
+  {
+    "sol": 18,
+    "sag": 22.75,
+    "yuksek": 40,
+    "genis": 45,
+    "renk ": "null", "path": "assets/alistirma/Daglar/Binboga.png",
+    "isim": "Binboğa Dağları",
+    "tip": "Dağ",
+    "tip2": "Kıvrımlı Dağ"
+  },
+  {
+    "sol": 21.5,
+    "sag": 31.75,
+    "yuksek": 35,
+    "genis": 40,
+    "renk ": "null", "path": "assets/alistirma/Daglar/Akdaglar.png",
+    "isim": "Akdağlar",
+    "tip": "Dağ",
+    "tip2": "Kıvrımlı Dağ"
+  },
+  {
+    "sol": 19.1,
+    "sag": 33.75,
+    "yuksek": 20,
+    "genis": 45,
+    "renk ": "null", "path": "assets/alistirma/Daglar/Camlibel.png",
+    "isim": "Çamlıbel Dağı",
+    "tip": "Dağ",
+    "tip2": "Kıvrımlı Dağ"
+  },
+  {
+    "sol": 17.1,
+    "sag": 26.75,
+    "yuksek": 12,
+    "genis": 55,
+    "renk ": "null", "path": "assets/alistirma/Daglar/Tecer.png",
+    "isim": "Tecer Dağı",
+    "tip": "Dağ",
+    "tip2": "Kıvrımlı Dağ"
+  },
+  {
+    "sol": 15.5,
+    "sag": 21.5,
+    "yuksek": 35,
+    "genis": 130,
+    "renk ": "null", "path": "assets/alistirma/Daglar/GuneydoguToros.png",
+    "isim": "Güneydoğu Toros Dağları",
+    "tip": "Dağ",
+    "tip2": "Kıvrımlı Dağ"
+  },
+  {
+    "sol": 13.35,
+    "sag": 18.5,
+    "yuksek": 27,
+    "genis": 85,
+    "renk ": "null", "path": "assets/alistirma/Daglar/Mardin.png",
+    "isim": "Mardin Dağı",
+    "tip": "Dağ",
+    "tip2": "Kıvrımlı Dağ"
+  },
+  {
+    "sol": 10.99,
+    "sag": 20.5,
+    "yuksek": 20,
+    "genis": 45,
+    "renk ": "null", "path": "assets/alistirma/Daglar/Hakkari.png",
+    "isim": "Hakkari(Cilo) Dağı",
+    "tip": "Dağ",
+    "tip2": "Kıvrımlı Dağ"
+  },
+  {
+    "sol": 18.99,
+    "sag": 16.95,
+    "yuksek": 65,
+    "genis": 28,
+    "renk ": "null", "path": "assets/alistirma/Daglar/Nur.png",
+    "isim": "Nur(Amanos) Dağları",
+    "tip": "Dağ",
+    "tip2": "Kıvrımlı Dağ"
+  },
+  {
+    "sol": 57.99,
+    "sag": 17.45,
+    "yuksek": 45,
+    "genis": 29,
+    "renk ": "null", "path": "assets/alistirma/Daglar/Akdaglar.png",
+    "isim": "Akdağlar",
+    "tip": "Dağ",
+    "tip2": "Kıvrımlı Dağ"
+  },
+  {
+    "sol": 48.5,
+    "sag": 16.6,
+    "yuksek": 40,
+    "genis": 30,
+    "renk ": "null", "path": "assets/alistirma/Daglar/Bey.png",
+    "isim": "Bey Dağları",
+    "tip": "Dağ",
+    "tip2": "Kıvrımlı Dağ"
+  },
+  {
+    "sol": 150.5,
+    "sag": 29.6,
+    "yuksek": 9,
+    "genis": 26,
+    "renk ": "null", "path": "assets/alistirma/Daglar/Madra.png",
+    "isim": "Madra Dağı",
+    "tip": "Dağ",
+    "tip2": "Kırıklı Dağ"
+  },
+  {
+    "sol": 130.5,
+    "sag": 25.6,
+    "yuksek": 5,
+    "genis": 35,
+    "renk ": "null", "path": "assets/alistirma/Daglar/Yunt.png",
+    "isim": "Yunt Dağı",
+    "tip": "Dağ",
+    "tip2": "Kırıklı Dağ"
+  },
+  {
+    "sol": 130.5,
+    "sag": 23.3,
+    "yuksek": 15,
+    "genis": 55,
+    "renk ": "null", "path": "assets/alistirma/Daglar/Bozdag.png",
+    "isim": "Bozdağ",
+    "tip": "Dağ",
+    "tip2": "Kırıklı Dağ"
+  },
+  {
+    "sol": 130.5,
+    "sag": 20.5,
+    "yuksek": 20,
+    "genis": 55,
+    "renk ": "null", "path": "assets/alistirma/Daglar/Aydin.png",
+    "isim": "Aydın Dağları",
+    "tip": "Dağ",
+    "tip2": "Kırıklı Dağ"
+  },
+  {
+    "sol": 95.5,
+    "sag": 18.95,
+    "yuksek": 35,
+    "genis": 50,
+    "renk ": "null", "path": "assets/alistirma/Daglar/Mentese.png",
+    "isim": "Menteşe Dağları",
+    "tip": "Dağ",
+    "tip2": "Kırıklı Dağ"
+  },
+  {
+    "sol": 30.5,
+    "sag": 16.95,
+    "yuksek": 30,
+    "genis": 30,
+    "renk ": "null", "path": "assets/alistirma/Daglar/voikanik.png",
+    "isim": "Kara Dağ",
+    "tip": "Dağ",
+    "tip2": "Volkanik Dağ"
+  },
+  {
+    "sol": 26.50,
+    "sag": 16.55,
+    "yuksek": 30,
+    "genis": 30,
+    "renk ": "null", "path": "assets/alistirma/Daglar/voikanik.png",
+    "isim": "Karacadağ",
+    "tip": "Dağ",
+    "tip2": "Volkanik Dağ"
+  },
+  {
+    "sol": 24.90,
+    "sag": 18.65,
+    "yuksek": 30,
+    "genis": 30,
+    "renk ": "null", "path": "assets/alistirma/Daglar/voikanik.png",
+    "isim": "Hasan Dağı",
+    "tip": "Dağ",
+    "tip2": "Volkanik Dağ"
+  },
+  {
+    "sol": 23.50,
+    "sag": 19.30,
+    "yuksek": 30,
+    "genis": 30,
+    "renk ": "null", "path": "assets/alistirma/Daglar/voikanik.png",
+    "isim": "Melendiz Dağı",
+    "tip": "Dağ",
+    "tip2": "Volkanik Dağ"
+  },
+  {
+    "sol": 21.50,
+    "sag": 22.50,
+    "yuksek": 30,
+    "genis": 30,
+    "renk ": "null", "path": "assets/alistirma/Daglar/voikanik.png",
+    "isim": "Erciyes Dağı",
+    "tip": "Dağ",
+    "tip2": "Volkanik Dağ"
+  },
+  {
+    "sol": 14.30,
+    "sag": 20.15,
+    "yuksek": 30,
+    "genis": 30,
+    "renk ": "null", "path": "assets/alistirma/Daglar/voikanik.png",
+    "isim": "Karaca Dağ",
+    "tip": "Dağ",
+    "tip2": "Volkanik Dağ"
+  },
+  {
+    "sol": 12.10,
+    "sag": 25.65,
+    "yuksek": 30,
+    "genis": 30,
+    "renk ": "null", "path": "assets/alistirma/Daglar/voikanik.png",
+    "isim": "Nemrut Dağı",
+    "tip": "Dağ",
+    "tip2": "Volkanik Dağ"
+  },
+  {
+    "sol": 11.65,
+    "sag": 31.95,
+    "yuksek": 30,
+    "genis": 30,
+    "renk ": "null", "path": "assets/alistirma/Daglar/voikanik.png",
+    "isim": "Süphan Dağı",
+    "tip": "Dağ",
+    "tip2": "Volkanik Dağ"
+  },
+  {
+    "sol": 11.10,
+    "sag": 35.95,
+    "yuksek": 30,
+    "genis": 30,
+    "renk ": "null", "path": "assets/alistirma/Daglar/voikanik.png",
+    "isim": "Tendürek Dağı",
+    "tip": "Dağ",
+    "tip2": "Volkanik Dağ"
+  },
+  {
+    "sol": 10.75,
+    "sag": 51.55,
+    "yuksek": 30,
+    "genis": 30,
+    "renk ": "null", "path": "assets/alistirma/Daglar/voikanik.png",
+    "isim": "Ağrı Dağı",
+    "tip": "Dağ",
+    "tip2": "Volkanik Dağ"
+  }
+]
+
+
